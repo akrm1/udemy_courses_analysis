@@ -5,7 +5,7 @@ Most of the people who learns about development they learn online via famous web
 
 *Note: the currency that used in this data is INR, so I assume this data was collected in indian region about Udemy courses.
 
-## About The Data:
+## About The Dataset:
   ### source:
   the data is getted from kaggle website: https://www.kaggle.com/jilkothari/udemy-courses-development
     
