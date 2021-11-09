@@ -26,7 +26,7 @@ Most of the people who learns about development they learn online via famous web
    - price_detail_amount : The original price of a particular course.
    - price_detail_currency : The currency corresponding to the price detail amount for a course.
 
-   **Note: the currency that used in this data is INR (INR is indian currency), so I assume this data was collected in indian region about Udemy courses**.
+   ***Note**: the currency that used in this data is INR (INR is indian currency), so I assume this data was collected in indian region about Udemy courses.
 
 
 ## Tools:
