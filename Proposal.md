@@ -1,13 +1,12 @@
 # Udemy Courses Analysis
 
 ## Introduction:
-Most of the people who learns about development they learn online via famous websites, these websites provides courses online and give certifications, one of the most famous and popular websites is Udemy, so in this project I get data about almost 10,000 subscribes in udemy courses about development category , I get the data from kagle website, and if you want to know more about the data this is the link of the source of the data: https://www.kaggle.com/jilkothari/udemy-courses-development
+Most of the people who learns about development they learn online via famous websites, these websites provides courses online and give certifications, one of the most famous and popular websites is Udemy, so in this project I get data about almost 10,000 subscribes in udemy courses about development category , I got the data from kagle website, and if you want to know more about the data this is the link of the source of the data: https://www.kaggle.com/jilkothari/udemy-courses-development
 
-*Note: the currency that used in this data is INR, so I assume this data was collected in indian region about Udemy courses.
 
 ## About The Dataset:
   ### source:
-  the data is getted from kaggle website: https://www.kaggle.com/jilkothari/udemy-courses-development
+  The data was obtained from the kaggle website: https://www.kaggle.com/jilkothari/udemy-courses-development
     
   ### Features:
    - id : The course ID of that particular course.
@@ -27,6 +26,9 @@ Most of the people who learns about development they learn online via famous web
    - price_detail_amount : The original price of a particular course.
    - price_detail_currency : The currency corresponding to the price detail amount for a course.
 
+    *Note: the currency that used in this data is INR, so I assume this data was collected in indian region about Udemy courses.
+
+
 ## Tools:
   - Jupyter (Python: pandas, matplotlib)
 
@@ -45,6 +47,7 @@ Most of the people who learns about development they learn online via famous web
   - Is the courses has a “specific  year” in their names has more subscribers?
   - What is the common number of lectures?
   - Is the most of courses have practice tests?
+
 
 ## MVP Goal:
 The MVP goal is to answer at least four of the questions I mentioned.
