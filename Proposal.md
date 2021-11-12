@@ -5,7 +5,7 @@ Most of the people who learns about development they learn online via famous web
 
 
 ## Project Target:
-The project target is to find what the common characteristics that increase the probability to make the users subscribe to specific development course.
+The project target is to find the common characteristics that increase the probability to make the users subscribe to specific development courses.
 
 
 ## About The Dataset:
@@ -38,7 +38,7 @@ The project target is to find what the common characteristics that increase the 
   - Power Point
 
 
-## Questions This Project Will Answered:
+## Questions This Project Will Answer:
   - what is the most development topic that the users interested in?
   - is the number of lectures make difference?
   - is the courses has a "bootcamp" in their names has more subscribers?
