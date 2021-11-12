@@ -39,12 +39,12 @@ The project target is to find what the common characteristics that increase the 
 
 
 ## Questions This Project Will Answered:
-  - What is the most development topic that the users interested in?
-  - Is the number of lectures make difference?
-  - Is the courses has a "bootcamp" in their names has more subscribers?
-  - Is there specific characteristics in the name that increase the probability to make the users subscribe?
-  - Is the year of the course make difference?
-  - Is the prices make difference?
+  - what is the most development topic that the users interested in?
+  - is the number of lectures make difference?
+  - is the courses has a "bootcamp" in their names has more subscribers?
+  - is there specific characteristics in the name that increase the probability to make the users subscribe?
+  - is the year of the course make difference?
+  - what are the characteristics of the price that make the course more desirable?
 
 
 ## MVP Goal:
