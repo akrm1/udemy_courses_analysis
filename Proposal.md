@@ -34,7 +34,7 @@ The project target is to find the common characteristics that increase the proba
 
 
 ## Tools:
-  - Jupyter (Python: pandas, matplotlib)
+  - Jupyter (Python: numpy, pandas, matplotlib, seaborn, plotly)
   - Power Point
 
 
